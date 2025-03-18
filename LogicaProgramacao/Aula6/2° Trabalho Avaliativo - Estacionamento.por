@@ -1,5 +1,11 @@
 // 2° Trabalho Avaliativo - Estacionamento / Portugol
 
+/*alunos
+Caio Baima
+Kauan Melo
+Pedro Cler
+Mateus dos Santos
+*/
 programa
 {
     // Define o número máximo de vagas
@@ -128,7 +134,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 42; 
+ * @POSICAO-CURSOR = 117; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
